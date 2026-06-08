@@ -1,0 +1,10 @@
+   ▲ Next.js 15.3.3 (Turbopack)
+   - Local:        http://localhost:3123
+   - Network:      http://192.168.56.1:3123
+
+ ✓ Starting...
+ ⚠ Invalid next.config.ts options detected: 
+ ⚠     Unrecognized key(s) in object: 'root' at "turbopack"
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+ ✓ Compiled middleware in 446ms
+ ✓ Ready in 2.4s
